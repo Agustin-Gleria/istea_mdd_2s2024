@@ -1,0 +1,1 @@
+Primer archivo en el repositorio de Github para la materia de Minería de Datos en el 2do cuatrimestre del año 2024.
